@@ -21,5 +21,5 @@
 ### Light
 - **Relay 8** - GPIO 15
 
-## **Main Power Switch**
+## **Master Power Switch**
 - **Relay 9** - GPIO 12
